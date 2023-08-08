@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 #include <SPI.h>
 #include <Wire.h>
-String apiKey = "I7HUJDZSWEEKVK10"; 
+String apiKey = "*API KEY FROM THINGSPEAK*"; 
 const char *ssid = "PRP108"; 
 const char *pass = "iotlab108";
 const char* server = "api.thingspeak.com";
